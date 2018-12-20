@@ -1,0 +1,15 @@
+Remove scaling of images, make sure all are correct size
+
+
+Solar power robot idea
+
+Find ways to power up robot
+
+More power = more damage etc.
+
+
+have day/night (at night no power from solar pannel)
+have weak wind sensor to start, wind even at night
+
+
+When power empty, move super slow (or stop and have to skip time?)
